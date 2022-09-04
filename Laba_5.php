@@ -49,7 +49,6 @@ $config = [
         <th>Email</th>
         <th>Text</th>
     </tr>
-
 </table>
 </body>
 </html>
